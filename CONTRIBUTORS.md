@@ -12,7 +12,7 @@
 
 1. **Fork** el repositorio
 2. Crea una rama para tu mejora: `git checkout -b tu-mejora`
-3. Hacé tus cambios (en el archivo `skill/mentor-literario.md` o en la documentación)
+3. Hacé tus cambios (en el archivo `SKILL.md` o en la documentación)
 4. Haz commit: `git commit -m "Descripción de tu mejora"`
 5. Push a tu fork: `git push origin tu-mejora`
 6. Abrí un **Pull Request** describiendo tu aporte

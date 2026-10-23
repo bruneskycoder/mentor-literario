@@ -15,11 +15,12 @@ Una skill para Claude Cowork diseñada para análisis, edición y mejora de text
 
 ## Uso
 
-### En Cowork
+### Instalación
 
-1. Ve a **Customize** > **Plugins** > **Add marketplace**
-2. Pega: `[repo URL]/mentor-literario`
-3. Instala el skill
+- **Claude Code:** cloná este repositorio en `~/.claude/skills/mentor-literario/`. La skill es el archivo `SKILL.md`.
+- **Claude (web, escritorio o Cowork):** comprimí en un `.zip` una carpeta `mentor-literario` que tenga adentro el `SKILL.md`, y subila en la sección de Skills de la configuración.
+
+Está escrita para mis textos: la descripción del encabezado me nombra. Para usarla con los tuyos, cambiá ese nombre.
 
 ### En Chat
 
@@ -76,6 +77,10 @@ Respeta y mantiene regionalismos, marcas culturales argentinas y giros sintácti
 - Un generador de textos
 - Una validación emocional
 - Un instructor de "cómo escribir"
+
+## Cómo se hizo
+
+La armé trabajando con Claude: el criterio de lectura y la lista de lo que no se toca son míos; Claude los ordenó como instrucciones que otro Claude puede seguir.
 
 ## Licencia
 
