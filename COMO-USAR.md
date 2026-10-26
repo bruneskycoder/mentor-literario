@@ -2,13 +2,7 @@
 
 ## Instalación Rápida
 
-### GitHub
-1. Clonás el repo: `git clone https://github.com/tuusuario/mentor-literario.git`
-2. Copias `skill/mentor-literario.md` a tu carpeta de skills de Claude/Cowork
-3. Listo — ya funciona
-
-### Sin Clonar
-Simplemente copias el contenido de `skill/mentor-literario.md` y lo pegas en tu chat como un skill personalizado.
+Ver la sección **Instalación** del [README](README.md). La skill es el archivo `SKILL.md`; sin instalar nada, también podés pegar su contenido al principio de una conversación.
 
 ## Casos de Uso
 
