@@ -14,7 +14,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ### Changed
 
-- Edición: la IA corrige directo solo el nivel 1 (ortografía, puntuación, concordancia). De ahí para arriba da el diagnóstico y el autor escribe la solución; la IA propone texto solo si se lo piden.
+- Edición: la versión pulida pasa a ser una versión de referencia. Va marcada y explicada para que el autor reescriba las mejoras con sus palabras, se guarda dentro del análisis y nunca como «Última edición», que es la que escribe o aprueba el autor. Cuando el autor trae su reescritura, se compara con la referencia.
 
 ## [1.1.0] - 2026-11-24
 
