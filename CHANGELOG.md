@@ -5,6 +5,17 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2026-11-24
+
+### Added
+
+- «Huella de la IA»: lo que agrega o cambia la IA se marca (negrita y tachado en el chat, azul en el archivo), con una línea de conteo por texto. Es del autor todo lo que él escribe, aunque nazca de un diagnóstico de la IA.
+- «Texto a la vista»: antes de analizar o preguntar, el texto se muestra entero en el chat, con todas sus versiones.
+
+### Changed
+
+- Edición: la IA corrige directo solo el nivel 1 (ortografía, puntuación, concordancia). De ahí para arriba da el diagnóstico y el autor escribe la solución; la IA propone texto solo si se lo piden.
+
 ## [1.1.0] - 2026-11-24
 
 ### Added
