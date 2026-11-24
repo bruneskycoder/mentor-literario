@@ -5,6 +5,17 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2026-11-24
+
+### Added
+
+- Sección «Archivo y versiones»: un único archivo compartido entre entornos de Claude, formato fijo por texto (última edición, decisiones abiertas, análisis, versiones anteriores, versión en crudo), crudo intocable, ninguna versión se borra, y alta de textos nuevos en el mapa del libro en curso.
+- Las ubicaciones concretas se leen de una página privada del archivo del autor («Reglas del archivo literario»), no de la skill.
+
+### Fixed
+
+- Erratas de la copia del repositorio («reconstituí», «Diferencí», «comparacione») alineadas con la versión instalada.
+
 ## [1.0.0] - 2026-09-10
 
 ### Added
